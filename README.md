@@ -24,4 +24,5 @@ All deployments and infrastructure provisioning were automated using **Terraform
 
 ### Credits:
 - Project developed during the FREE Intensive Cloud Training with Jean Rodrigues, CEO & CTO of The Cloud Bootcamp.
-- LinkedIn profile: linkedin.com/in/jean-rod
+- LinkedIn profile: https://www.linkedin.com/in/jean-rod/
+
