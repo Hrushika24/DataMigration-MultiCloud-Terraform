@@ -21,3 +21,7 @@ All deployments and infrastructure provisioning were automated using **Terraform
 
 ### Solution Architecture:
 ![image](https://github.com/user-attachments/assets/9f45bceb-4e19-4056-897c-5867fefbf71f)
+
+### Credits:
+- Project developed during the FREE Intensive Cloud Training with Jean Rodrigues, CEO & CTO of The Cloud Bootcamp.
+- LinkedIn profile: Jean Rodrigues
